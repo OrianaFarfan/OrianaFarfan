@@ -4,3 +4,4 @@
 </p>
 
 <p align="center">Soy <strong>Estudiante de Ingeniería Biomédica.</strong> En este GitHub voy a subir el contenido de mi cursada y proyectos. ✨<br />
+<p align="center"> <strong> How to reach me: </strong> orianafarfan17@gmail.com
